@@ -1,0 +1,24 @@
+Name: Hrishav Aryal
+ID: 23616642
+
+For the final project, I have created a game called tiger and goats. It is a 5 by 5 grid game. It is usually a two players game. Initially, 4 tigers are placed at 4 corners of the board and 20 goats are provided to place on the board. Tigers must try to capture 5 goats to win the game, and goats win if placed and moved in such a way that 4 tigers have no valid move left. For invalid move, I have created a red blink animation. So, if an invalid move is played, red blink will appear in the cell where the move is placed. Turn, goats left, and goats killed are displayed and updated after every move. 
+
+Rules for the game!!
+
+Rules for tigers:
+
+- They can move to an adjacent free position along the lines.
+- They can capture goats during any move, and do not need to wait until all goats are placed.
+- They can capture only one goat at a time.
+- They can jump over a goat in any direction, as long as there is an open space for the tiger to complete its turn.
+- A tiger cannot jump over another tiger.
+
+Rules for goats:
+
+- Goats cannot move until all goats have been positioned on the board.
+- They must leave the board when captured.
+- They cannot jump over tigers or other goats.
+
+There still might be some glitches in the game, but as to my knowledge, I have tried to create it as perfectly as I could. And also I am learning the algorithms for AI for single player purpose. But for this project, it's solely for two players, one being tiger and other goat. 
+
+Thank You!! 
